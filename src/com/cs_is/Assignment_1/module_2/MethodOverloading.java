@@ -1,4 +1,4 @@
-package com.cs_is.module_2;
+package com.cs_is.Assignment_1.module_2;
 
 public class MethodOverloading {
     public static int multiply(int a, int b){

@@ -1,4 +1,4 @@
-package com.cs_is.module_3;
+package com.cs_is.Assignment_1.module_3;
 
 public class Shape {
     int radius=5;

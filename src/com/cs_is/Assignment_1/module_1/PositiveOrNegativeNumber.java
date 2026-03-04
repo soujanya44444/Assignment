@@ -1,4 +1,4 @@
-package com.cs_is.module_1;
+package com.cs_is.Assignment_1.module_1;
 import java.util.*;
 public class PositiveOrNegativeNumber {
     public static void main(String[] args) {
